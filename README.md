@@ -1,7 +1,7 @@
 # 💫 About Me:
-💻 I’m currently working on a music player app using Flutter, and a website showcasing a bakery's services and items using ReactJS and Shopify Hydrogen<br>
+💻 I’m currently working on a web app using NextJS<br>
 🤝 I’m looking to collaborate on projects built with javascript, and open-source projects that align with my skills<br>
-🌱 I’m currently learning advanced backend integration with CMS for a full web development experience, and Flutter for cross-platform mobile development<br>
+🌱 I’m currently learning advanced backend integration with CMS for a full web development experience<br>
 ⚡ Fun fact: I can probably name a top camping spot near you. Plus I'm good at Rubik's cubes.<br>
 
 ## 🌐 Socials:
